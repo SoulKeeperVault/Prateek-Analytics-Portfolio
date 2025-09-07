@@ -1,2 +1,17 @@
-# Prateek-Analytics-Portfolio
-Business Analytics Portfolio – Projects in product analysis, financial forecasting, and KPI insights (Excel, SQL, Power BI, Python).
+# 📊 Prateek Rathi — Business Analytics Portfolio  
+
+This repository showcases **business analysis projects** developed during my MSc in Management & Business Analytics and applied to real-world case studies.  
+
+### 🔑 Highlights
+- **Profitability & ROI analysis** (Cadbury – projected +20% ROI uplift, ~£2M annualised).  
+- **Customer retention & efficiency optimisation** (Olist – improved retention by ~30%).  
+- **Financial forecasting & risk analysis** (HSBC – +10–15% forecast accuracy).  
+- **Market & competitor analysis** (Tesla – >130% return from April to Nov 2024).  
+
+### 🛠 Tools & Methods
+- Excel (advanced), SQL, Power BI, Tableau  
+- Forecasting models: ARIMA, ETS, Regression, Random Forest  
+- KPI dashboards, profitability modelling, scenario analysis  
+- Regulatory awareness: FCA PROD, Solvency II, governance reporting  
+
+⚠️ All datasets are either anonymised, public, or simulated for demonstration. Proprietary/sensitive data is excluded.  
